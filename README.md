@@ -1,3 +1,4 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Quezia%20Costa&fontSize=40&fontColor=ffffff)
 ##  Sobre mim
 
 Futura cientista da computação pela UNICAP, estágiaria do centro de inteligência artificial da UNICAP, estudante de iniciação cientifica - pesquisa voltada para crianças com dislexia
@@ -44,3 +45,5 @@ Futura cientista da computação pela UNICAP, estágiaria do centro de inteligê
 
 - LinkedIn: [[linkedin](https://www.linkedin.com/in/quezia-costa-5195342b3/)]
 -  Email: quezia.costa@unicap.br
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
