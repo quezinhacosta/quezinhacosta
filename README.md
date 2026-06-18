@@ -2,10 +2,8 @@
 
 ## Sobre mim
 
-Futura cientista da computação pela UNICAP, estagiária do Centro de Inteligência Artificial da universidade e pesquisadora em iniciação científica com foco em soluções para crianças com dislexia.
-
-Tenho interesse em inteligência artificial, ciência de dados e desenvolvimento de sistemas com impacto social.
-
+Futura cientista da computação pela UNICAP, estagiária do Centro de Inteligência Artificial da UNICAP e pesquisadora em iniciação científica com foco em soluções para crianças com dislexia.
+Meus principais focos são voltados para desenvolvimento de software e Inteligência Artificial. 
 ---
 
 ## Tecnologias que uso
