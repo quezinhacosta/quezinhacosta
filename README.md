@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123C73,100:1E5AA8&height=220&section=header&text=Quezia%20Costa&fontSize=42&fontColor=ffffff"/>
-
 **Computer Science Student • Artificial Intelligence • Software Engineering**
 
 Estudante de Ciência da Computação na Universidade Católica de Pernambuco (UNICAP).
