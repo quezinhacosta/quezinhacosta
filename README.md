@@ -21,7 +21,7 @@
 
 ###  Sobre Mim
 
-- **Atuação:** Desenvolvedora Fullstack & Engenharia de IA no **Centro de Inteligência Artificial da UNICAP**.
+- **Atuação:** Estagiária fullstack no **Centro de Inteligência Artificial da UNICAP**.
 - **Pesquisa Científica:** Pesquisadora de Iniciação Científica (**PIBIC**) com foco em otimização do algoritmo de clusterização **K-Means** e tecnologia assistiva. Atualmente fazendo a segunda pesquisa
 - **Foco Prático:** Construção de aplicações ponta a ponta — desde arquitetura de microsserviços e pipelines RAG (*Retrieval-Augmented Generation*) até interfaces modernas e responsivas.
 - **Ambiente de Trabalho:** Linux lover. 
