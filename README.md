@@ -1,9 +1,6 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Quezia%20Costa&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Fullstack%20Developer&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%"/>
-
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Graduanda+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UNICAP;IA+Generativa%2C+RAG+%26+Machine+Learning;Fullstack%3A+React%2C+Next.js%2C+FastAPI+%26+Docker;Pesquisadora+PIBIC+(K-Means+Optimization)" alt="Typing SVG" />
 </a>
